@@ -1,0 +1,2 @@
+tabs: ['index.js']
+terminal-one: static-server -p 1337 --no-cache
